@@ -18,13 +18,15 @@ from PIL import Image
 
 
 ## Demo
+This is a rose jacket prepared as a sample.\
 
-Insert gif or link to demo
+![sample](sample.png)
 
+The output from this photo input is shown below.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
 
 ## FAQ
