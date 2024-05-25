@@ -18,7 +18,7 @@ from PIL import Image
 
 
 ## Demo
-This is a rose jacket prepared as a sample.\
+This is a rose jacket prepared as a sample.
 
 ![sample](sample.png)
 
@@ -27,6 +27,7 @@ The output from this photo input is shown below.
 ## Screenshots
 
 
+![output](output.png)
 
 
 ## FAQ
